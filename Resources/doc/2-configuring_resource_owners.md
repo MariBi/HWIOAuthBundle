@@ -37,6 +37,7 @@ hwi_oauth:
 - [Dropbox](resource_owners/dropbox.md)
 - [Eventbrite](resource_owners/eventbrite.md)
 - [Facebook](resource_owners/facebook.md)
+- [Fitbit](resource_owners/fitbit.md)
 - [Flickr](resource_owners/flickr.md)
 - [Foursquare](resource_owners/foursquare.md)
 - [GitHub](resource_owners/github.md)

@@ -59,12 +59,14 @@ class Configuration implements ConfigurationInterface
         'oauth1',
             'bitbucket',
             'dropbox',
+            'fitbit',
             'flickr',
             'jira',
             'stereomood',
             'trello',
             'twitter',
             'yahoo',
+
     );
 
     /**

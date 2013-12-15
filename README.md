@@ -17,6 +17,7 @@ This bundle contains support for 20+ different providers:
 * Dropbox,
 * Facebook,
 * Flickr,
+* Fitbit,
 * Foursquare,
 * GitHub,
 * Google,
